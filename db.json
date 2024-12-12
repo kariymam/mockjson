@@ -1,0 +1,136 @@
+{
+    "emails": [
+        {
+            "id": 1,
+            "sender_img": "",
+            "sender_name": [
+                {
+                    "initials": "EX",
+                    "fullname": "Example"
+                }
+            ],
+            "email_subject": "Meeting Agenda for Q4 2025",
+            "email_body": "Please find the attached meeting agenda outlining our plans and objectives for Q4."
+        },
+        {
+            "id": 2,
+            "sender_img": "",
+            "sender_name": [
+                {
+                    "initials": "JD",
+                    "fullname": "John Dorian"
+                }
+            ],
+            "email_subject": "Project Update - Phase 2 Completion",
+            "email_body": "We are pleased to announce the successful completion of phase two in our project."
+        },
+        {
+            "id": 3,
+            "sender_img": "",
+            "sender_name": [
+                {
+                    "initials": "SJ",
+                    "fullname": "Samantha Johnson"
+                }
+            ],
+            "email_subject": "Budget Review Meeting Reminder",
+            "email_body": "A reminder for our upcoming budget review meeting scheduled on December 5th."
+        },
+        {
+            "id": 4,
+            "sender_img": "",
+            "sender_name": [
+                {
+                    "initials": "AJ",
+                    "fullname": "Andrew James"
+                }
+            ],
+            "email_subject": "Quarterly Sales Report",
+            "email_body": "Our sales report for Q4 shows a promising increase in revenue."
+        },
+        {
+            "id": 5,
+            "sender_img": "",
+            "sender_name": [
+                {
+                    "initials": "RM",
+                    "fullname": "Rebecca Miller"
+                }
+            ],
+            "email_subject": "New Employee Onboarding Process",
+            "email_body": "We've updated our onboarding process to better welcome new team members."
+        },
+        {
+            "id": 6,
+            "sender_img": "",
+            "sender_name": [
+                {
+                    "initials": "LK",
+                    "fullname": "Laura King"
+                }
+            ],
+            "email_subject": "Office Hours Reminder",
+            "email_body": "A reminder that our office hours are Monday to Friday from 9 AM - 5 PM."
+        },
+        {
+            "id": 7,
+            "sender_img": "https://static.wikia.nocookie.net/marvelanimated/images/4/4a/Professor_X.jpg/revision/latest?cb=20161120014846",
+            "sender_name": [
+                {
+                    "initials": "CX",
+                    "fullname": "Charles Xavier"
+                }
+            ],
+            "email_subject": "Annual Performance Reviews Scheduled",
+            "email_body": "Performance reviews will be conducted in the coming weeks. Please prepare your reports."
+        },
+        {
+            "id": 8,
+            "sender_img": "",
+            "sender_name": [
+                {
+                    "initials": "MK",
+                    "fullname": "Michael Knight"
+                }
+            ],
+            "email_subject": "Upcoming Team Building Event",
+            "email_body": "Save the date for our team building event on January 15th."
+        },
+        {
+            "id": 9,
+            "sender_img": "",
+            "sender_name": [
+                {
+                    "initials": "JD",
+                    "fullname": "Julia Davis"
+                }
+            ],
+            "email_subject": "New IT Support Policies",
+            "email_body": "We are rolling out new IT support policies effective from February 1st."
+        },
+        {
+            "id": 10,
+            "sender_img": "",
+            "sender_name": [
+                {
+                    "initials": "JM",
+                    "fullname": "James Miller"
+                }
+            ],
+            "email_subject": "Lunch and Learn Series",
+            "email_body": "Join us for our monthly lunch and learn series."
+        },
+        {
+            "id": 11,
+            "sender_img": "",
+            "sender_name": [
+                {
+                    "initials": "LG",
+                    "fullname": "Lucy Green"
+                }
+            ],
+            "email_subject": "Employee Training Schedule Update",
+            "email_body": "The schedule for employee training has been updated."
+        }
+    ]
+}
