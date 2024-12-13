@@ -3,10 +3,10 @@
         {
             "id": 1,
             "sender_img": "",
-            "sender_name": [
+            "sender": [
                 {
-                    "initials": "EX",
-                    "fullname": "Example"
+                    "email": "example@email.com",
+                    "name": "Example"
                 }
             ],
             "subject": "Meeting Agenda for Q4 2025",
@@ -15,10 +15,10 @@
         {
             "id": 2,
             "sender_img": "",
-            "sender_name": [
+            "sender": [
                 {
-                    "initials": "JD",
-                    "fullname": "John Dorian"
+                    "email": "johnd@stark.co",
+                    "name": "John Dorian"
                 }
             ],
             "subject": "Project Update - Phase 2 Completion",
@@ -26,11 +26,11 @@
         },
         {
             "id": 3,
-            "sender_img": "",
-            "sender_name": [
+            "sender_img": "https://static.wikia.nocookie.net/kingofthehill/images/d/d9/Hank_Hill.jpg/revision/latest?cb=20090610065923",
+            "sender": [
                 {
-                    "initials": "SJ",
-                    "fullname": "Samantha Johnson"
+                    "email": "hhill@stricklandpropane.com",
+                    "name": "Hank Hill"
                 }
             ],
             "subject": "Budget Review Meeting Reminder",
@@ -39,10 +39,10 @@
         {
             "id": 4,
             "sender_img": "",
-            "sender_name": [
+            "sender": [
                 {
-                    "initials": "AJ",
-                    "fullname": "Andrew James"
+                    "email": "andyjames@zen.co",
+                    "name": "Andrew James"
                 }
             ],
             "subject": "Quarterly Sales Report",
@@ -51,10 +51,10 @@
         {
             "id": 5,
             "sender_img": "",
-            "sender_name": [
+            "sender": [
                 {
-                    "initials": "RM",
-                    "fullname": "Rebecca Miller"
+                    "email": "rebecca.miller@schemepronto.xyz",
+                    "name": "Rebecca Miller"
                 }
             ],
             "subject": "New Employee Onboarding Process",
@@ -63,10 +63,10 @@
         {
             "id": 6,
             "sender_img": "",
-            "sender_name": [
+            "sender": [
                 {
-                    "initials": "LK",
-                    "fullname": "Laura King"
+                    "email": "lking485@vt.edu",
+                    "name": "Laura King"
                 }
             ],
             "subject": "Office Hours Reminder",
@@ -75,10 +75,10 @@
         {
             "id": 7,
             "sender_img": "https://static.wikia.nocookie.net/marvelanimated/images/4/4a/Professor_X.jpg/revision/latest?cb=20161120014846",
-            "sender_name": [
+            "sender": [
                 {
-                    "initials": "CX",
-                    "fullname": "Charles Xavier"
+                    "email": "charles.headmaster@xavier.edu",
+                    "name": "Charles Xavier"
                 }
             ],
             "subject": "Annual Performance Reviews Scheduled",
@@ -87,10 +87,10 @@
         {
             "id": 8,
             "sender_img": "",
-            "sender_name": [
+            "sender": [
                 {
-                    "initials": "MK",
-                    "fullname": "Michael Knight"
+                    "email": "michaelk@gummyworld.info",
+                    "name": "Michael Knight"
                 }
             ],
             "subject": "Upcoming Team Building Event",
@@ -98,23 +98,23 @@
         },
         {
             "id": 9,
-            "sender_img": "",
-            "sender_name": [
+            "sender_img": "https://static.wikia.nocookie.net/harveybirdman/images/a/a9/Peter_Potamus.jpg/revision/latest?cb=20120128110237",
+            "sender": [
                 {
-                    "initials": "JD",
-                    "fullname": "Julia Davis"
+                    "email": "ppotamus@tech.sebben&sebben.co",
+                    "name": "Peter Potamus"
                 }
             ],
-            "subject": "New IT Support Policies",
-            "body": "We are rolling out new IT support policies effective from February 1st."
+            "subject": "Re: New IT Support Policies",
+            "body": "Did you get that thing I sent you? We are rolling out new IT support policies effective from February 1st."
         },
         {
             "id": 10,
             "sender_img": "",
-            "sender_name": [
+            "sender": [
                 {
-                    "initials": "JM",
-                    "fullname": "James Miller"
+                    "email": "james.miller@hacknights.blog",
+                    "name": "James Miller"
                 }
             ],
             "subject": "Lunch and Learn Series",
@@ -123,10 +123,10 @@
         {
             "id": 11,
             "sender_img": "",
-            "sender_name": [
+            "sender": [
                 {
-                    "initials": "LG",
-                    "fullname": "Lucy Green"
+                    "email": "lgreen15@business.co",
+                    "name": "Lucy Green"
                 }
             ],
             "subject": "Employee Training Schedule Update",
