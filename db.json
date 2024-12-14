@@ -26,7 +26,7 @@
         },
         {
             "id": 3,
-            "sender_img": "https://static.wikia.nocookie.net/kingofthehill/images/d/d9/Hank_Hill.jpg/revision/latest?cb=20090610065923",
+            "sender_img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Hank_Hill.png",
             "sender": [
                 {
                     "email": "hhill@stricklandpropane.com",
@@ -74,7 +74,7 @@
         },
         {
             "id": 7,
-            "sender_img": "https://static.wikia.nocookie.net/marvelanimated/images/4/4a/Professor_X.jpg/revision/latest?cb=20161120014846",
+            "sender_img": "https://upload.wikimedia.org/wikipedia/en/0/00/Professor_Charles_%27X%27_Xavier.png",
             "sender": [
                 {
                     "email": "charles.headmaster@xavier.edu",
@@ -98,7 +98,7 @@
         },
         {
             "id": 9,
-            "sender_img": "https://static.wikia.nocookie.net/harveybirdman/images/a/a9/Peter_Potamus.jpg/revision/latest?cb=20120128110237",
+            "sender_img": "https://cdn.hanna-barberawiki.com/thumb/7/7f/HBAAL_Peter_Potamus.png/300px-HBAAL_Peter_Potamus.png",
             "sender": [
                 {
                     "email": "ppotamus@tech.sebben&sebben.co",
